@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'ITC-Lt';
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Lt.eot');
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Lt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Lt.woff2') format('woff2'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Lt.woff') format('woff'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Lt.ttf') format('truetype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Lt.svg#ITCHandelGothicArabicW23-Lt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITC-Md';
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Md.eot');
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Md.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Md.woff2') format('woff2'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Md.woff') format('woff'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Md.ttf') format('truetype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Md.svg#ITCHandelGothicArabicW23-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITC-Bd';
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Bd.eot');
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Bd.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Bd.woff2') format('woff2'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Bd.woff') format('woff'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Bd.ttf') format('truetype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Bd.svg#ITCHandelGothicArabicW23-Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITC-Rg';
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Rg.eot');
+    src: url('../fonts/ITC/ITCHandelGothicArabicW23-Rg.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Rg.woff2') format('woff2'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Rg.woff') format('woff'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Rg.ttf') format('truetype'),
+        url('../fonts/ITC/ITCHandelGothicArabicW23-Rg.svg#ITCHandelGothicArabicW23-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
